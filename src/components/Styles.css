@@ -1,0 +1,36 @@
+#cal{
+    align-items: center;
+    margin: 0 auto;
+    width: 500px;
+    border: 2px solid crimson;
+    padding: 10px;
+}
+button{
+    width: 125px;
+    height: 80px;
+    font-size: 30px;
+    color: blue;
+    background-color: white;
+}
+button:hover{
+    background-color: cyan;
+}
+.clear,.zero{
+    width: 250px;
+}
+.clear:hover{
+    background-color: red;
+}
+.result{
+    background-color: rgb(139, 223, 13);
+}
+.userInput{
+    width: 496px;
+    height: 80px;
+    text-align: right;
+    font-size: 40px;
+    color: blue;
+}
+.logo{
+    width: 500px;
+}
